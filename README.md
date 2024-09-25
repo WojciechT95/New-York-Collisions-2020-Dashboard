@@ -2,7 +2,7 @@
 
  ## Project Overview
  
-The project presents an analysis of vehicle collision data reported by the New York City Police Department from January to August 2020.The analysis mainly focuses on looking for a correlation between the accident and the place and time of the incident, along with the injury of the accident.
+The project presents an analysis of vehicle collision data reported by the New York City Police Department from January to August 2020. The analysis mainly focuses on looking for a correlation between the accident and the place and time of the incident, along with the injury of the accident.
 
 ## Technologies Used
 
