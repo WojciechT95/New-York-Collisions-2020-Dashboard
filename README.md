@@ -8,7 +8,7 @@ The project presents an analysis of vehicle collision data reported by the New Y
 
 **Microsoft Excel** used for
 - Data Cleaning: containing operations such as: delete duplicates, dividing the collision date of the accident into day of the week, month and hour through the TEXT function, counting the number of lethal and injuries accidents through the IF function, narrowing the hours of the accident to four times of the day through the VLOOKUP function.
-- Data Modeling : asking the data the relevant questions and creating pivot tables that answer these questions.
+- Data Manipulation : asking the data the relevant questions and creating pivot tables that answer these questions.
 - Data Visualisation: creation of pivot charts corresponding to pivot tables with slicers.
   
 PS. Functions are written in Polish because of the software i have.
